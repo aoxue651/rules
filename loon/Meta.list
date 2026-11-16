@@ -1,5 +1,8 @@
 # Meta family for Loon
 # Set the policy on the Remote Rule subscription.
+# Meta Account, Business Suite, Meta Verified and AI glasses use Meta service domains.
+# Muse Code and Meta Model API endpoints under meta.ai are covered by its suffix.
+# Edits uses Instagram services.
 
 # Muse, Meta AI and Meta
 DOMAIN-SUFFIX,muse.ai
@@ -36,3 +39,25 @@ DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,igtv.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
+
+# Meta AI research and demos
+DOMAIN-SUFFIX,metademolab.com
+
+# WhatsApp and WhatsApp Business
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsappbrand.com
+
+# Meta Quest, Horizon and Oculus
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculusvr.com
+DOMAIN-SUFFIX,ocul.us
+DOMAIN-SUFFIX,oculusrift.com
+DOMAIN-SUFFIX,oculusforbusiness.com
+
+# Meta first-party VR titles and legacy services
+DOMAIN-SUFFIX,beatsaber.com
+DOMAIN-SUFFIX,populationonevr.com
+DOMAIN,direct.getsupernatural.com
